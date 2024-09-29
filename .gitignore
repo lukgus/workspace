@@ -1,0 +1,3 @@
+/source/extern/*
+/source/extern/**/*
+!/source/extern/dependencies.json

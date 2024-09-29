@@ -1,0 +1,16 @@
+{
+    "Libraries": [
+        {
+            "Name": "glfw",
+            "Url": "git@github.com:glfw/glfw.git",
+            "Branch": "master",
+            "Changelist": "3.4"
+        },
+        {
+            "Name": "glew",
+            "Url": "git@github.com:nigels-com/glew.git",
+            "Branch": "master",
+            "Changelist": "b323ebf"
+        }
+    ]
+}
